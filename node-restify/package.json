@@ -1,0 +1,17 @@
+{
+  "name": "node-restify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^4.3.0",
+    "restify-clients": "^1.5.0",
+    "restify-plugins": "^1.4.0"
+  }
+}
